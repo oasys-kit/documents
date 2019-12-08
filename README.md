@@ -1,2 +1,2 @@
 # documents
-Repository containing related documents
+Repository containing documents of interest for Oasys
